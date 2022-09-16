@@ -14,6 +14,6 @@ Issues unaddressed :
 Scope of the improvement of the tool :
   - The time can also be automatically be taken from the signals. 
 
-Please send your feedback and suggestions (Good or Bad) via e-mail to ritesh.sinha2@in.bosch.com(IIH3KOR)/ritesh02051997@gmail.com.
+Please send your feedback and suggestions (Good or Bad) via e-mail to ritesh.sinha2@in.bosch.com(IIH3KOR)/ ritesh02051997@gmail.com.
 
 ***Save Time ! Save Efforts! Be Smart.***
