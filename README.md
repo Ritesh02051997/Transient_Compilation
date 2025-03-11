@@ -5,6 +5,8 @@ After uploading a DAT/MF4 file, the signals will be displayed in a table. By dou
 
 To proceed, provide the necessary details for each file and click the "Link" button. Once everything is mapped, click "Compile" to view the results.
 
+The tool also automatically organizes the folder structure based on projects, fuel type, cold/hot conditions, and engine RPM.
+
 ## ***Transient Compilation Tool***
 
 #### Version of the SW : 2.0.3
