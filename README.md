@@ -1,17 +1,20 @@
 # Transient_Compilation
-To compile transient data from .dat/.mf4 file based on positive and negative load jumps
+To compile transient data from .dat/.mf4 file based on positive and negative load jumps.
 
+After uploading a DAT/MF4 file, the signals will be displayed in a table. By double-tapping on any signal, you can view it on the oscilloscope, which is already integrated into the tool.
 
-***Transient Compilation Tool***
+To proceed, provide the necessary details for each file and click the "Map" button. Once everything is mapped, click "Compile" to view the results.
 
-Version of the SW : 1.0
+## ***Transient Compilation Tool***
+
+#### Version of the SW : 1.0
 
 Refer the User Manual for understanding how to use the tool.
 
-Issues unaddressed :
+  Issues unaddressed :
   - The tool can be used to view signals and compile the measurements based on template
 
-Scope of the improvement of the tool :
+  Scope of the improvement of the tool :
   - The time can also be automatically be taken from the signals. 
 
 Please send your feedback and suggestions (Good or Bad) via e-mail to ritesh.sinha2@in.bosch.com(IIH3KOR)/ ritesh02051997@gmail.com.
