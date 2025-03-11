@@ -3,7 +3,7 @@ To compile transient data from .dat/.mf4 file based on positive and negative loa
 
 After uploading a DAT/MF4 file, the signals will be displayed in a table. By double-tapping on any signal, you can view it on the oscilloscope, which is already integrated into the tool.
 
-To proceed, provide the necessary details for each file and click the "Map" button. Once everything is mapped, click "Compile" to view the results.
+To proceed, provide the necessary details for each file and click the "Link" button. Once everything is mapped, click "Compile" to view the results.
 
 ## ***Transient Compilation Tool***
 
